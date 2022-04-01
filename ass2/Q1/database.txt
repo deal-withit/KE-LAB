@@ -1,0 +1,42 @@
+T1 i5 i11 i15
+T2 i4 i4 i8 i15 i6
+T3 i2 i13 i2 i12 i11 i3
+T4 i7 i7 i10 i3 i4 i8 i8 i7 i12 i9 i6 i3 i7
+T5 i4 i10 i8 i3 i5 i11 i10 i9 i7 i3 i4 i4
+T6 i7 i2 i9 i14 i3 i15 i8 i13 i13 i5 i9 i7 i5 i14 i2
+T7 i6 i13 i4 i2 i11 i3
+T8 i14 i12 i1 i6 i10
+T9 i6 i7 i7 i4 i9 i10 i9 i10 i5 i7 i6
+T10 i12 i12
+T11 i10 i10 i12 i14 i3 i14 i9 i13 i10 i12 i4 i6 i5 i4
+T12 i1 i13 i12 i9 i7 i12 i6 i15 i8 i1
+T13 i3 i4 i13 i13 i2 i1 i12 i7 i6 i3
+T14 i5
+T15 i8 i6 i11 i7 i5 i2 i11 i13 i12 i8 i13 i8
+T16 i4 i4 i6
+T17 i5 i9 i12 i4 i3 i2 i12 i11 i4 i9 i1 i12 i13 i6 i11
+T18 i10 i3 i9 i4 i11 i7 i3 i6 i2 i12 i15 i11 i7 i7 i4
+T19 i4 i5 i2 i10 i9 i5 i4 i9 i1 i9
+T20 i3 i9 i14 i4 i14 i3 i7 i1
+T21 i14 i5 i15
+T22 i6 i7 i6 i15 i5 i12 i14 i4 i15 i14 i10 i15
+T23 i3 i1 i11 i4 i4
+T24 i13 i5 i9 i9 i1 i4 i4 i1 i12 i9 i12 i15 i9 i5
+T25 i13 i13 i14 i8 i9 i15 i11 i3
+T26 i12 i1 i14 i2 i7 i3 i10 i3 i1
+T27 i12 i8 i12 i6
+T28 i5 i13 i10 i7 i12 i4 i3 i7 i2
+T29 i3 i7 i8 i15 i6 i3 i6 i6 i4 i5 i12 i4 i7 i10 i1
+T30 i8 i11 i3 i11 i14 i2 i13 i13 i8 i3 i15 i10 i12 i15
+T31 i10 i14 i13 i6 i11 i15 i5 i2 i3 i11 i1 i14
+T32 i15 i4 i5 i2
+T33 i5 i5 i8 i7 i5 i14 i6 i13
+T34 i12 i11
+T35 i8 i6 i10 i10 i2 i12 i2 i12 i9
+T36 i11 i1 i14 i13 i9 i3 i6 i9 i7
+T37 i14 i7
+T38 i2 i5 i7 i3 i5 i2 i1 i6
+T39 i12 i15 i15 i13 i10 i4 i15 i10 i6 i6 i10 i2 i4 i5
+T40 i9 i9 i8
+T41 i4 i12 i3 i11 i3 i5
+T42 i10 i10 i15 i13 i15 i14 i6 i3 i8 i4 i3 i14 i6 i9 i14

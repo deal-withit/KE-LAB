@@ -1,0 +1,5 @@
+1 Milk Onion Nutmeg Kidney_Beans Eggs Yogurt
+2 Dill Onion Nutmeg Kidney_Beans Eggs Yogurt
+3 Milk Apple Kidney_Beans Eggs
+4 Milk Unicorn Corn Yogurt
+5 Corn Onion Kidney_Beans Ice_cream Eggs
