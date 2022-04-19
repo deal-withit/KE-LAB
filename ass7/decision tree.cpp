@@ -102,7 +102,6 @@ string select_attr(vector<string> rem_attrs, vector<vector<string> > rem_tups)
 			best_attr=rem_attrs[i];
 		}
 	}
-
 	return best_attr;
 }
 
